@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 866d9f1f762cfbd4cabd6a778a327623, type: 3}
+  m_Name: New Grind Balance Table
+  m_EditorClassIdentifier: 
+  grindBalanceData:
+  - hoMode: 0
+    rank: 1
+    localEventGrindAward:
+    - id: Test 1
+      count: 2
+  - hoMode: 2
+    rank: 2
+    localEventGrindAward:
+    - id: Test 2
+      count: 3
